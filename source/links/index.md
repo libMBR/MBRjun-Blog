@@ -147,10 +147,10 @@ description: 我的朋友们！
                </div>
             </div>
             <div class="card">
-               <img class="ava" src="https://blog.storical.space/images/icon.png" />
+               <img class="ava" src="https://blog.storia.ren/images/icon.png" />
                <div class="card-header">
-                  <div><a href="https://blog.storical.space/">汐塔魔法屋</a></div>
-                  <div class="info">种下一颗有故事的种子，让它带着魔法和奇迹生根发芽</div>
+                  <div><a href="https://blog.storia.ren/">绘星里</a></div>
+                  <div class="info">一起来绘制属于自己的星星！</div>
                </div>
             </div>
             <div class="card">

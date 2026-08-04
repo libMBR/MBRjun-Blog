@@ -5909,7 +5909,7 @@ blockquote > p:first-child {
   cursor: pointer;
 }
 #about #about-card #about-btn-close:hover {
-  color: rgb(78.4040816327, 80.4673469388, 90.0959183673);
+  color: rgb(30.7466986795%, 31.5558223289%, 35.3317326931%);
 }
 #about #about-card #about-card-picture {
   margin-bottom: 15px;
@@ -6210,7 +6210,7 @@ blockquote > p:first-child {
   font-weight: normal;
 }
 #header .header-title .header-title-link:hover, #header .header-title .header-title-link:active {
-  color: rgb(90.2693877551, 92.6448979592, 103.7306122449);
+  color: rgb(35.399759904%, 36.331332533%, 40.6786714686%);
   text-decoration: none;
 }
 #header.header-up {
@@ -7238,7 +7238,7 @@ blockquote > p:first-child {
 }
 .alert.info {
   border-color: #1277d9;
-  background-color: rgb(175.310212766, 212.4008510638, 248.389787234);
+  background-color: rgb(68.7491030455%, 83.2944513976%, 97.4077596996%);
 }
 .alert.info:not(.no-icon):before {
   content: "\f05a";
@@ -7246,7 +7246,7 @@ blockquote > p:first-child {
 }
 .alert.success {
   border-color: #4dc657;
-  background-color: rgb(239.245106383, 249.954893617, 240.130212766);
+  background-color: rgb(93.8216103463%, 98.0215269086%, 94.1687108886%);
   content: "\f058";
 }
 .alert.success:not(.no-icon):before {
@@ -7255,7 +7255,7 @@ blockquote > p:first-child {
 }
 .alert.warning {
   border-color: #f5aa0a;
-  background-color: rgb(253.4, 241.4, 215.8);
+  background-color: rgb(99.3725490196%, 94.6666666667%, 84.6274509804%);
 }
 .alert.warning:not(.no-icon):before {
   content: "\f071";
@@ -7263,7 +7263,7 @@ blockquote > p:first-child {
 }
 .alert.danger {
   border-color: #f5311d;
-  background-color: rgb(254.0762711864, 235.9711864407, 234.1237288136);
+  background-color: rgb(99.6377534064%, 92.5377201728%, 91.8132269857%);
 }
 .alert.danger:not(.no-icon):before {
   content: "\f05e";
@@ -7328,8 +7328,8 @@ blockquote > p:first-child {
 
 .btn--disabled,
 .btn--disabled:hover {
-  color: rgb(140.5755102041, 143.1959183673, 155.4244897959) !important;
-  border: 1px solid rgb(140.5755102041, 143.1959183673, 155.4244897959);
+  color: rgb(55.1276510604%, 56.1552621048%, 60.9507803121%) !important;
+  border: 1px solid rgb(55.1276510604%, 56.1552621048%, 60.9507803121%);
   cursor: not-allowed;
   text-decoration: none;
 }
@@ -7339,8 +7339,8 @@ blockquote > p:first-child {
   border: 1px solid #727583;
 }
 .btn--default:hover {
-  color: rgb(78.4040816327, 80.4673469388, 90.0959183673) !important;
-  border: 1px solid rgb(78.4040816327, 80.4673469388, 90.0959183673);
+  color: rgb(30.7466986795%, 31.5558223289%, 35.3317326931%) !important;
+  border: 1px solid rgb(30.7466986795%, 31.5558223289%, 35.3317326931%);
 }
 
 .btn--success {
@@ -7348,8 +7348,8 @@ blockquote > p:first-child {
   border: 1px solid #4dc657;
 }
 .btn--success:hover {
-  color: rgb(48.1468085106, 150.3531914894, 56.5936170213) !important;
-  border: 1px solid rgb(48.1468085106, 150.3531914894, 56.5936170213);
+  color: rgb(18.8811013767%, 58.9620358782%, 22.1935753025%) !important;
+  border: 1px solid rgb(18.8811013767%, 58.9620358782%, 22.1935753025%);
 }
 
 .btn--primary {
@@ -7357,8 +7357,8 @@ blockquote > p:first-child {
   border: 1px solid #1277d9;
 }
 .btn--primary:hover {
-  color: rgb(12.1404255319, 80.2617021277, 146.3595744681) !important;
-  border: 1px solid rgb(12.1404255319, 80.2617021277, 146.3595744681);
+  color: rgb(4.760951189%, 31.475177305%, 57.3959115561%) !important;
+  border: 1px solid rgb(4.760951189%, 31.475177305%, 57.3959115561%);
 }
 
 .btn--danger {
@@ -7366,8 +7366,8 @@ blockquote > p:first-child {
   border: 1px solid #f5311d;
 }
 .btn--danger:hover {
-  color: rgb(189.1313559322, 25.1059322034, 8.3686440678) !important;
-  border: 1px solid rgb(189.1313559322, 25.1059322034, 8.3686440678);
+  color: rgb(74.1691591891%, 9.8454636092%, 3.2818212031%) !important;
+  border: 1px solid rgb(74.1691591891%, 9.8454636092%, 3.2818212031%);
 }
 
 .btn--medium {
@@ -7384,7 +7384,7 @@ blockquote > p:first-child {
   display: block;
   font-family: "Google Sans Display";
   font-size: 1.3rem;
-  color: rgb(90.2693877551, 92.6448979592, 103.7306122449);
+  color: rgb(35.399759904%, 36.331332533%, 40.6786714686%);
   text-align: center;
   font-style: italic;
   padding-right: 10px;
@@ -7624,13 +7624,13 @@ figure.highlight .line,
   padding: 3px;
 }
 .highlight-text.red {
-  background-color: rgb(255, 229.5, 229.5);
+  background-color: rgb(100%, 90%, 90%);
 }
 .highlight-text.green {
-  background-color: rgb(204.5, 255, 204.5);
+  background-color: rgb(80.1960784314%, 100%, 80.1960784314%);
 }
 .highlight-text.blue {
-  background-color: rgb(229.5, 229.5, 255);
+  background-color: rgb(90%, 90%, 100%);
 }
 .highlight-text.purple {
   background-color: #ffe6ff;
@@ -7645,16 +7645,16 @@ figure.highlight .line,
   background-color: #ccffff;
 }
 .highlight-text.primary {
-  background-color: rgb(165.8914893617, 207.3659574468, 247.6085106383);
+  background-color: rgb(65.0554860242%, 81.3199833125%, 97.1013767209%);
 }
 .highlight-text.success {
-  background-color: rgb(212.2042553191, 241.2957446809, 214.6085106383);
+  background-color: rgb(83.2173550271%, 94.6257822278%, 84.1602002503%);
 }
 .highlight-text.warning {
   background-color: #fdeece;
 }
 .highlight-text.danger {
-  background-color: rgb(253.6440677966, 227.0677966102, 224.3559322034);
+  background-color: rgb(99.468261881%, 89.0461947491%, 87.9827185111%);
 }
 
 .icon-mt {
@@ -8071,7 +8071,7 @@ a.fancybox {
   margin: 1.5em 0 1.5em 35px;
 }
 .pullquote.blur {
-  background-color: rgb(238.35, 240, 241.05);
+  background-color: rgb(93.4705882353%, 94.1176470588%, 94.5294117647%);
 }
 
 .post-header .post-title {
@@ -8505,8 +8505,8 @@ a.tag--default,
 }
 a.tag--default:hover,
 .tag--default:hover {
-  color: rgb(78.4040816327, 80.4673469388, 90.0959183673) !important;
-  border: 1px solid rgb(78.4040816327, 80.4673469388, 90.0959183673);
+  color: rgb(30.7466986795%, 31.5558223289%, 35.3317326931%) !important;
+  border: 1px solid rgb(30.7466986795%, 31.5558223289%, 35.3317326931%);
   text-decoration: none;
 }
 
@@ -8517,8 +8517,8 @@ a.tag--success,
 }
 a.tag--success:hover,
 .tag--success:hover {
-  color: rgb(48.1468085106, 150.3531914894, 56.5936170213) !important;
-  border: 1px solid rgb(48.1468085106, 150.3531914894, 56.5936170213);
+  color: rgb(18.8811013767%, 58.9620358782%, 22.1935753025%) !important;
+  border: 1px solid rgb(18.8811013767%, 58.9620358782%, 22.1935753025%);
   text-decoration: none;
 }
 
@@ -8529,8 +8529,8 @@ a.tag--primary,
 }
 a.tag--primary:hover,
 .tag--primary:hover {
-  color: rgb(12.1404255319, 80.2617021277, 146.3595744681) !important;
-  border: 1px solid rgb(12.1404255319, 80.2617021277, 146.3595744681);
+  color: rgb(4.760951189%, 31.475177305%, 57.3959115561%) !important;
+  border: 1px solid rgb(4.760951189%, 31.475177305%, 57.3959115561%);
   text-decoration: none;
 }
 
@@ -8541,8 +8541,8 @@ a.tag--danger,
 }
 a.tag--danger:hover,
 .tag--danger:hover {
-  color: rgb(189.1313559322, 25.1059322034, 8.3686440678) !important;
-  border: 1px solid rgb(189.1313559322, 25.1059322034, 8.3686440678);
+  color: rgb(74.1691591891%, 9.8454636092%, 3.2818212031%) !important;
+  border: 1px solid rgb(74.1691591891%, 9.8454636092%, 3.2818212031%);
   text-decoration: none;
 }
 

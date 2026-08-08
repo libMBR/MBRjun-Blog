@@ -990,10 +990,10 @@ hexo-webp-polyfill@^2.0.1:
     uglify-js "^3.17.4"
     webp-hero "0.0.2"
 
-hexo@^8.1.1:
-  version "8.1.1"
-  resolved "https://registry.yarnpkg.com/hexo/-/hexo-8.1.1.tgz#fecd2e64b3eaaf281e49bcf82664871277d4114e"
-  integrity sha512-UnzT4ImjKzMMuVRsvudxrl7MkdZwKe4S9xJN5pQPK9c+K0G+fLFb9kB6CqZZwj2E5ne+QK0ls4XMKqTUbNR3RQ==
+hexo@^8.1.2:
+  version "8.1.2"
+  resolved "https://registry.yarnpkg.com/hexo/-/hexo-8.1.2.tgz#29d9d5d3281d85d59dfe05af93299f95a0e9f6a7"
+  integrity sha512-gmpNwL1KnbK12q551ZhGxqvSw8M88ZSjFKOhx6ybUYz1phjPdwGewMgBgwGmjcVcIYFq6tWQAv1MRil/sBrPHQ==
   dependencies:
     abbrev "^3.0.0"
     bluebird "^3.7.2"

@@ -98,7 +98,7 @@ description: 我的朋友们！
             <div class="card"> 
                <img class="ava" src="https://lfs.libmbr.com/assets/2023/05/15/2b915e23-5d1d-4c44-a343-9e730fb0a11f.webp" />
                <div class="card-header">
-                  <div><a href="https://lihaoyu.cn">晓雨杂记</a></div>
+                  <div><a href="https://notbigcake.net">晓雨杂记</a></div>
                   <div class="info">也许我们会分别，但我们将永远不会忘记彼此</div>
                </div>
             </div>
@@ -147,10 +147,10 @@ description: 我的朋友们！
                </div>
             </div>
             <div class="card">
-               <img class="ava" src="https://blog.storical.space/images/icon.png" />
+               <img class="ava" src="https://blog.storia.ren/images/icon.png" />
                <div class="card-header">
-                  <div><a href="https://blog.storical.space/">汐塔魔法屋</a></div>
-                  <div class="info">种下一颗有故事的种子，让它带着魔法和奇迹生根发芽</div>
+                  <div><a href="https://blog.storia.ren/">绘星里</a></div>
+                  <div class="info">一起来绘制属于自己的星星！</div>
                </div>
             </div>
             <div class="card">

@@ -4,7 +4,7 @@
              <% } %>
          <% } %>
 +        <script src="https://hiroko.libmbr.com/client.js"
-+            data-repo="MBRjun/MBRjun-Blog"
++            data-repo="libMBR/MBRjun-Blog"
 +            data-repo-id="R_kgDOIbI33Q"
 +            data-category="Blog"
 +            data-category-id="DIC_kwDOIbI33c4CTUTq"
